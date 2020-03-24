@@ -149,5 +149,8 @@ color: #11999E;
 }
 .last-div{
 float: right;
-  width: 300px;
+  width: 50%;
+}
+.pixel{
+  width: 610px;
 }
