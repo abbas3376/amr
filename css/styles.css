@@ -1,5 +1,5 @@
 .zero {
-  background-color: #cff1ef;
+  background-color: #eaf6f6;
   padding-top: 75px;
 }
 
@@ -44,7 +44,12 @@ body {
 
 .middle-container {}
 
-.bottom-container {}
+.bottom-container {
+  background-color: #66bfbf;
+  margin-top: 40px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
 
 .skill-row {
   width: 50%;
@@ -67,4 +72,36 @@ body {
 
 .boy {
   width: 8%;
+}
+.first-p{
+color: #40514e;
+margin-bottom: 30px;
+}
+.line{
+  width: 10%;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    border-color: #eaf6f6;
+  }
+.footer-link{
+  margin: 10px;
+  color: #11999E;
+  font-style: italic;
+  text-decoration: none;
+}
+.name{
+  color: #eaf6f6;
+}
+.boot{
+  width: 11%;
+  margin: auto;
+  background-color: #11999E;
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
+.btn{
+  text-decoration: none;
+  color: white;
 }
