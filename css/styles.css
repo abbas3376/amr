@@ -39,8 +39,8 @@ body {
 }
 
 .bottom-cloud {
-  position: absolute;
-  left: 420px;
+  position: relative;
+  bottom: 320px;
 }
 
 .middle-container {}
